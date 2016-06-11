@@ -13,7 +13,7 @@ The most common way to copy an image to a USB flash drive is to use the "dd" com
 
 where:
 
-<file> is the name of the input image, e.g. "netinst.iso"
-<device> is the device matching the USB flash drive, e.g. /dev/sda, /dev/sdb. Be careful to make sure you have the right device name, as this command is capable of writing over your hard disk just as easily if you get the wrong one!
-"bs=4M" tells dd to read/write in 4 megabyte chunks for better performance; the default is 512 bytes, which will be much slower
+<file> is the name of the input image, e.g. "netinst.iso"<br>
+<device> is the device matching the USB flash drive, e.g. /dev/sda, /dev/sdb. Be careful to make sure you have the right device name, as this command is capable of writing over your hard disk just as easily if you get the wrong one!<br>
+"bs=4M" tells dd to read/write in 4 megabyte chunks for better performance; the default is 512 bytes, which will be much slower<br>
 The "sync" is to make sure that all the writes are flushed out before the command returns. 
