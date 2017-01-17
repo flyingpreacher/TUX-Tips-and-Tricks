@@ -1,0 +1,11 @@
+<div style="
+border: solid 5px #aaaaaa;
+background: #FF93E7;
+font-size: 18px;
+margin: 40px;
+padding: 30px;
+text-align: justify;
+">
+Type Your Text Here
+</div>
+The Text Line After the Border.
