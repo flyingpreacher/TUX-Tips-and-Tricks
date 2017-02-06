@@ -1,3 +1,5 @@
+https://www.linux.com/learn/kde-neon-offers-near-perfect-desktop-solid-platform
+
 https://code.google.com/archive/p/burg/wikis/ManualInstall.wiki
 
 http://www.tecmint.com/best-linux-boot-loaders/
