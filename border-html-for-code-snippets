@@ -1,0 +1,17 @@
+THIS ONE WORKS! (and has grey background):
+<div style="background: #e5dddb; border: solid 5px #aaaaaa; font-size: 18px; margin: 40px; padding: 10px; text-align: justify;">
+$ npm run predeploy
+$ NODE_ENV=production node app</div>
+
+
+<div style="
+border: solid 5px #aaaaaa;
+background: #FF93E7;
+font-size: 18px;
+margin: 40px;
+padding: 30px;
+text-align: justify;
+">
+Type Your Text Here
+</div>
+The Text Line After the Border.
