@@ -1,0 +1,9 @@
+this is a generic key which is included by default when you install office 2016 ProPLus VL version for the first time so this key will only activate your office 2016 version for 6 months and after that, you will have to activate it again.
+
+there is no key available to activate permanently office 2016 version at this moment so if you want to activate it for 6 months until new key appears, you can do this :
+cmd (in administrator mode) then you copy all these lines at the same time then paste them in command prompt : 
+
+if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16"
+if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
+cscript ospp.vbs /sethst:kms.lotro.cc
+cscript ospp.vbs /act
