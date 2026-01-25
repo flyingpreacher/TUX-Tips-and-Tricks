@@ -1,0 +1,2 @@
+To recover Linux with bios_grub partition, chroot into installation, reinstall Grub, then reboot.
+Look at chroot steps in Linux Storage.
