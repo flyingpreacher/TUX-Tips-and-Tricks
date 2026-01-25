@@ -1,5 +1,0 @@
-Void Linux does not create the non-root user properly during installation. After installation, you must do CTRL+F2 to create the new user:
-
-root uses dash instead of bash. You cannot use the up arrow to review your command history. I have to find out how to do it in dash.
-
-Void has specific instructions for infinality, but enabling the xbps-src utility is a bit confusing. Use the quick start on the github page.
