@@ -8,6 +8,6 @@ iwctl, then iwd prompt appears : [iwd]#
 `device list`  
 `station [wifi device name] scan`  
 `station " " get-networks`  
-`station " " connect "SSID"` ( you need to use double quotes if there are spaces in the SSID name)  
+`station " " connect "SSID"` **( you need to use double quotes if there are spaces in the SSID name)**  
 NOW YOU SHOULD HAVE WIFI. ENJOY!!
 
